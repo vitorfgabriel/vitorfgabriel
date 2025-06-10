@@ -8,7 +8,7 @@
   <p>Cientista de Dados de Crédito | Sempre aberto a aprender</p>
   <p>
     <a href="https://github.com/vitorfgabriel"><img src="https://img.shields.io/badge/GitHub-@vitorfgabriel-181717?logo=github" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/vitor-gabriel-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-@vitor-gabriel-fernandes-0A66C2?logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/vitor-gabriel-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-@vitor-gabriel-fernandes?logo=linkedin" alt="LinkedIn"></a>
     <a href="vitorfgabriel@gmail.com"><img src="https://img.shields.io/badge/vitorfgabriel@gmail.com-D14836?logo=gmail" alt="E-mail"></a>
   </p>
 </div>
