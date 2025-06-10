@@ -7,7 +7,7 @@
   <h1>Olá, eu sou Vitor Gabriel 👋</h1>
   <p>Cientista de Dados de Crédito | Sempre aberto a aprender</p>
   <p>
-    <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/GitHub-@seu--usuario-181717?logo=github" alt="GitHub"></a>
+    <a href="https://github.com/vitorfgabriel"><img src="https://img.shields.io/badge/GitHub-@seu--usuario-181717?logo=github" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/vitor-gabriel-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-@seu--usuario-0A66C2?logo=linkedin" alt="LinkedIn"></a>
     <a href="vitorfgabriel@gmail.com"><img src="https://img.shields.io/badge/Email-seu.email@dominio.com-D14836?logo=gmail" alt="E-mail"></a>
   </p>
@@ -42,8 +42,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorfgabriel&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfgabriel&layout=compact&theme=default" />
 </div>
 
 ---
@@ -65,9 +65,9 @@
   - [Projeto B](https://github.com/seu-usuario/projeto-b) – Descrição breve do projeto e principais tecnologias  
   - [Projeto C](https://github.com/seu-usuario/projeto-c) – Descrição breve do projeto e principais tecnologias  
 </details>
--->
----
 
+---
+-->
 <p align="center">
   Feito com ❤️  
 </p>
