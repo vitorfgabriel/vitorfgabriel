@@ -37,7 +37,7 @@
 - ⚡ Curioso por novas linguagens e frameworks  
 
 ---
-
+<!--
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -46,7 +46,7 @@
 </div>
 
 ---
-<!--
+
 ## 📫 Como Me Encontrar
 
 <div align="center">
